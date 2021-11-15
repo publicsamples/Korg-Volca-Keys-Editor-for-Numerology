@@ -1,3 +1,4 @@
+
 # Korg Volca Keys Editor for Numerology
  
 An editor for the Korg Volca Keys built with Five12's Numerology.  
@@ -11,18 +12,16 @@ Numerology: http://www.five12.com/hq/N4
      <img 
       src="https://github.com/publicsamples/Korg-Volca-Keys-Editor-for-Numerology/raw/main/vked.png" 
       alt="Video Demo" 
-      style="width:100%;">
+      style="width:70%;">
       </a>
     </div>
 
+## **Get help**
 
-Demo: 
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
-
-# Support this project
-
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![enter image description here](https://www.modularsamples.com/img/ex2.png)
+](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
